@@ -1,0 +1,47 @@
+﻿  objects.cpp
+  Generating code
+  42 of 185 functions (22.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  arkanoid.vcxproj -> C:\kuba\programming\Arkanoid\vs15\x64\Release\arkanoid.exe
+  arkanoid.vcxproj -> C:\kuba\programming\Arkanoid\vs15\x64\Release\arkanoid.pdb (Full PDB)
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\ezGame.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libFLAC-8.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libfreetype-6.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libjpeg-9.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libmodplug-1.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libmpg123-0.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libogg-0.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libpng16-16.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libtiff-5.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libvorbis-0.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libvorbisfile-3.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\libwebp-7.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\SDL2.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\SDL2_image.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\SDL2_mixer.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\SDL2_ttf.dll
+  C:\kuba\programming\Arkanoid\vs15\..\ezGame\lib\x64\zlib1.dll
+  17 File(s) copied
+  C:\kuba\programming\Arkanoid\vs15\..\assets\ball\normal.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\brick\damaged.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\brick\hard.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\brick\normal.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\brick\special.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\brick\stick_long.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\brick\unbreakable.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\effects\bullet.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\effects\bullet_fall.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\paddle\long_sticky_stick.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\paddle\stick.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\paddle\sticky_stick.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\powerup\bulletp.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\powerup\heart.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\powerup\long.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\powerup\multiball.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\powerup\slow.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\powerup\sticky.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\ui\charset_black.bmp
+  C:\kuba\programming\Arkanoid\vs15\..\assets\ui\small_heart.bmp
+  20 File(s) copied

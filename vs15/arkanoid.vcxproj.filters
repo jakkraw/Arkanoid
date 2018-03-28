@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\source\main.cpp" />
+    <ClCompile Include="..\source\arkanoid.cpp" />
+    <ClCompile Include="..\source\menu.cpp">
+      <Filter>Stages</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\play.cpp">
+      <Filter>Stages</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\scores.cpp">
+      <Filter>Stages</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\draw.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\objects.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\source\arkanoid.h" />
+    <ClInclude Include="..\source\menu.h">
+      <Filter>Stages</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\play.h">
+      <Filter>Stages</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\scores.h">
+      <Filter>Stages</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\common.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\draw.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\collide.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\input.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\objects.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Stages">
+      <UniqueIdentifier>{573bbb02-fc9a-43f2-8e49-3fcff5d0042a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{7f3f00d3-3510-48e4-b8fc-f81420d5e3e8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
